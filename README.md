@@ -12,7 +12,7 @@
 
 | Platform | Download Link | Size |
 |----------|---------------|------|
-| 🪟 **Windows** | [MB_Viewer-2.5.0.exe](https://github.com/mokingbird-xyz/mb-viewer/releases/download/v2.5.0/MB_Viewer-2.5.0.exe) | ~80 MB |
+| 🪟 **Windows** | [MB_Viewer-2.5.0.exe](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/v2.5.0/MB_Viewer.2.5.0.exe) | ~80 MB |
 | 🍎 **macOS Intel** | [MB_Viewer-2.5.0-x64.dmg](https://github.com/mokingbird-xyz/mb-viewer/releases/download/v2.5.0/MB_Viewer-2.5.0-x64.dmg) | ~90 MB |
 | 🍎 **macOS Apple Silicon** | [MB_Viewer-2.5.0-arm64.dmg](https://github.com/mokingbird-xyz/mb-viewer/releases/download/v2.5.0/MB_Viewer-2.5.0-arm64.dmg) | ~90 MB |
 | 🐧 **Linux** | [MB_Viewer-2.5.0.AppImage](https://github.com/mokingbird-xyz/mb-viewer/releases/download/v2.5.0/MB_Viewer-2.5.0.AppImage) | ~85 MB |
