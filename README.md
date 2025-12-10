@@ -98,9 +98,9 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 ## Demo
 ![Demo](images/mb_viewer_demo.gif)
 
----
 
-```
+
+---
 
 ### 🆕 New in v2.5.0 - Advanced Productivity Tools
 
