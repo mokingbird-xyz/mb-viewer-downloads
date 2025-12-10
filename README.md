@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MB_viewer Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=MB_viewer+-+Advanced+Search+%7C+Zoom+%7C+Multi-Select)
+![MB_viewer](images/Mokingbird_viewer.png)
 
 **The Ultimate Desktop App for Instant TSX/JSX Preview & Editing**
 
@@ -94,6 +94,9 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 ![Screenshot](images/screenshot1.png)
 
 ### Split Screen Comparison
+![Comparison](images/screenshot2.png)
+
+### Editing view
 ![Comparison](images/screenshot2.png)
 
 ## Demo
