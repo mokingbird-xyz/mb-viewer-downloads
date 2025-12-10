@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-Free%20%20for%20use-blue.svg)](LICENSE)
 [![Built for](https://img.shields.io/badge/built%20for-Every%20design%20engineer-purple.svg)](https://github.com/mokingbird-xyz/mb-viewer)
 
-[Features](#-features) • [Download](#-download) • [Quick Start](#-quick-start) • [What's New](#-whats-new-in-v250) • [Documentation](#-documentation)
+[Features](#-features) • [Download](#-download) • [Quick Start](#-quick-start) • [What's New](#-whats-new-in-v250) 
 
 </div>
 
