@@ -84,23 +84,19 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 - ✅ **Code reviewers** comparing files side-by-side
 
 
-# MB_viewer
-
-![Hero Banner](images/hero.png)
-
 ## Features
 
 ### Live Preview
-![Screenshot](images/screenshot1.png)
+![Screenshot](images/Screenshot1.png)
 
 ### Split Screen Comparison
-![Comparison](images/screenshot2.png)
+![Comparison](images/Screenshot2.png)
 
 ### Editing view
-![Comparison](images/screenshot2.png)
+![Comparison](images/Screenshot2.png)
 
 ## Demo
-![Demo](images/demo.gif)
+![Demo](images/mb_viewer_demo.gif)
 ```
 
 
