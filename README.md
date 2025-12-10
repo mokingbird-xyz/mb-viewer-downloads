@@ -1,10 +1,19 @@
-# 🚀 MB_viewer - Design File Viewer
+# 🚀 MB_viewer v2.5.0
 
-**Preview TSX, JSX, HTML files instantly - No build tools needed**
+<div align="center">
 
-[![Download](https://img.shields.io/badge/Download-v2.5.0-blue.svg)](https://github.com/mokingbird-xyz/mb-viewer/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/mokingbird-xyz/mb-viewer/releases)
-[![License](https://img.shields.io/badge/License-Free-green.svg)](https://github.com/mokingbird-xyz/mb-viewer)
+![MB_viewer Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=MB_viewer+-+Advanced+Search+%7C+Zoom+%7C+Multi-Select)
+
+**The Ultimate Desktop App for Instant TSX/JSX Preview & Editing**
+
+[![Version](https://img.shields.io/badge/version-2.5.0-brightgreen.svg)](https://github.com/mokingbird-xyz/mb-viewer/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#-download)
+[![License](https://img.shields.io/badge/license-Free%20%20for%20use-blue.svg)](LICENSE)
+[![Built for](https://img.shields.io/badge/built%20for-Every%20design%20engineer-purple.svg)](https://github.com/mokingbird-xyz/mb-viewer)
+
+[Features](#-features) • [Download](#-download) • [Quick Start](#-quick-start) • [What's New](#-whats-new-in-v250) • [Documentation](#-documentation)
+
+</div>
 
 ---
 
@@ -21,30 +30,34 @@
 
 ---
 
-## ✨ What is MB_viewer?
+## 🎯 What is MB_viewer?
 
-MB_viewer instantly previews TypeScript React components and design files without any setup. Perfect for Claude AI users and designers!
+MB_viewer is a **free desktop application** built specifically for **Claude AI users** and developers who need to instantly preview and edit TypeScript React components without any build tools or complex setup.
+
+### 🔥 Perfect for Claude AI Users
+Stop copying Claude's `.tsx` outputs to CodePen! MB_viewer lets you drag, drop, and instantly see your components rendered - with **advanced search**, **zoom control**, and **multi-file comparison**.
+
+### ⚡ Zero Setup Required
+No npm install. No webpack. No configuration. Just drag, drop, and preview. Available in Win(.exe), Mac and Linux
+
+### 🎨 Production-Ready Features
+Advanced search with highlighting, per-panel zoom (50-200%), multi-slot selection, and professional editing tools.
+
+---
+
+## ✨ Features
 
 ### 🎯 Key Features (v2.5.0)
 
+- ⚡ **Instant Preview** - Drag & drop files, see results immediately
+- 📝 **Live Editor** - Edit code, preview changes in real-time
+- 💾 **100% Offline and private** - No internet connection required
 - 🔍 **Advanced Search** - Find text with live highlighting in edit & preview modes
 - 🔎 **Per-Panel Zoom** - Independent zoom control (50-200%) for each file
 - 🎯 **Multi-Select** - Ctrl+click slots to choose which appear in double view
-- ⚡ **Instant Preview** - Drag & drop files, see results immediately
-- 📝 **Live Editor** - Edit code, see changes in real-time
 - 🎨 **Multiple Themes** - Light, Dark, GitHub, Monokai editor themes
 - 📊 **Multi-File Compare** - View up to 4 files side-by-side
-- 💾 **100% Offline** - No internet connection required
 
-### ⭐ Previous Features (All Maintained):
-- ✅ Live editor with real-time preview
-- ✅ Per-file editor themes (Light, Dark, GitHub, Monokai)
-- ✅ Full-panel drag & drop zones
-- ✅ Click links in markdown to open in browser
-- ✅ Save & Save As support
-- ✅ Update checker in Help menu
-- ✅ Multi-file comparison (up to 4 files)
-- ✅ Support for 9 file types (TSX, JSX, HTML, MD, TXT, JSON, CSS, JS, SVG)
 
 ### 📁 Supported File Types
 
@@ -69,6 +82,222 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 - ✅ **Designers** comparing design iterations at different zoom levels
 - ✅ **Technical writers** with markdown live preview
 - ✅ **Code reviewers** comparing files side-by-side
+
+
+# MB_viewer
+
+![Hero Banner](images/hero.png)
+
+## Features
+
+### Live Preview
+![Screenshot](images/screenshot1.png)
+
+### Split Screen Comparison
+![Comparison](images/screenshot2.png)
+
+## Demo
+![Demo](images/demo.gif)
+```
+
+
+
+### 🆕 New in v2.5.0 - Advanced Productivity Tools
+
+#### 🔍 Advanced Search System
+- **Per-slot search**: Each file has independent search (Ctrl+F)
+- **Live highlighting**: See matches in real-time (edit + preview modes)
+- **Smart navigation**: Next/Previous buttons with auto-scroll
+- **Search button**: 🔍 icon as alternative to keyboard shortcut
+- **Result counting**: "2/10" display shows current/total matches
+- **File type support**: Works with txt, json, css, js, jsx, tsx, md
+
+#### 🔎 Per-Panel Zoom Control
+- **Independent zoom**: Each file has its own zoom level
+- **6 zoom levels**: 50%, 75%, 100%, 125%, 150%, 200%
+- **Simple controls**: +/− buttons with instant response
+- **Persistent**: Zoom preserved across edit/preview toggles
+- **Perfect for**: View full layout at 50%, inspect details at 200%
+
+#### 🎯 Multi-Slot Selection
+- **Smart selection**: Ctrl+click to choose which files appear in double view
+- **Visual feedback**: Active slot (bright blue) vs Selected (light blue)
+- **Flexible workflow**: Select files B & D in quad view → switch to double → see only B & D
+- **Intelligent fallback**: Auto-selects first 2 non-empty files if needed
+
+#### 🎪 Active Slot Management
+- **Keyboard targeting**: Active slot receives Ctrl+F, Ctrl+S shortcuts
+- **Clear indicators**: Visual borders show which slot is active
+- **Multiple triggers**: Click anywhere on a file panel to make it active
+
+### 📂 Comprehensive File Support
+- **React Components** (.tsx, .jsx) - Live preview with instant transpilation
+- **Web Pages** (.html) - Sandboxed rendering with JavaScript execution
+- **Markdown** (.md) - Beautiful GitHub-style formatting with search
+- **Stylesheets** (.css) - Syntax highlighted with search
+- **Data Files** (.json) - Validated, formatted, and searchable
+- **Scripts** (.js) - Syntax highlighted JavaScript with search
+- **Graphics** (.svg) - Direct vector rendering
+- **Text** (.txt) - Clean monospace display with search
+
+### ✏️ Professional Live Editor
+- **Split-screen editing**: Code on left, live preview on right
+- **Real-time updates**: See changes as you type (500ms debounce)
+- **4 editor themes**: Light, Dark, GitHub, Monokai (per-file independent)
+- **Adjustable tab size**: 2, 4, or 8 spaces
+- **Search in editor**: Ctrl+F with highlighting and navigation
+- **Context menu**: Right-click for copy all/copy selection
+- **Change tracking**: Orange dot shows unsaved modifications
+
+### 💾 Smart Save System
+- **Quick save** (Ctrl+S): Save to original file location
+- **Save as** (Ctrl+Shift+S): Choose new location
+- **Auto-detect changes**: Know exactly when files are modified
+- **State preservation**: Edit mode maintained during file refresh
+
+### 🖥️ Flexible View Modes
+- **Single View**: Focus on one file with full screen
+- **Double View** (Split): Compare 2 files side-by-side
+  - **Multi-select**: Ctrl+click to choose which 2 files to display
+  - **Smart fallback**: Auto-selects first 2 non-empty files
+- **Quad View** (Grid): 2×2 grid for comparing 4 files simultaneously
+
+### 🚀 Maximum Productivity
+- **Drag & drop**: Drop files anywhere on any panel
+- **Full-panel zones**: Each slot accepts files independently
+- **Keyboard shortcuts**: Professional hotkeys for all actions
+- **Works offline**: No internet connection required
+- **Cross-platform**: Windows, macOS (Intel + Apple Silicon), Linux
+- **Zero dependencies**: No configuration or setup needed
+
+---
+
+## 🚀 Quick Start
+
+### Installation
+
+#### Windows
+1. Download `MB_Viewer-2.5.0.exe`
+2. Double-click to run (portable, no installation needed)
+3. Start using immediately!
+
+#### macOS
+1. Download the appropriate DMG for your Mac:
+   - Intel Macs: `MB_Viewer-2.5.0-x64.dmg`
+   - Apple Silicon (M1/M2/M3): `MB_Viewer-2.5.0-arm64.dmg`
+2. Open the DMG file
+3. Drag MB_viewer to Applications folder
+4. Launch from Applications
+5. If you see "unidentified developer" warning, right-click → Open
+
+#### Linux
+1. Download `MB_Viewer-2.5.0.AppImage`
+2. Make it executable: `chmod +x MB_Viewer-2.5.0.AppImage`
+3. Run: `./MB_Viewer-2.5.0.AppImage`
+
+### Basic Usage
+
+#### 1. Open a File
+- Click "📂 Select File" button
+- **OR** drag & drop any supported file onto a panel
+- Supports: .tsx, .jsx, .html, .md, .txt, .json, .css, .js, .svg
+
+#### 2. Edit Your File
+- Click "✏️ Edit" button to enter edit mode
+- Type in the left editor pane
+- Watch live preview update on the right
+- Changes appear after 500ms of inactivity
+
+#### 3. Search Within Files
+- Press `Ctrl+F` (or click 🔍 button)
+- Type your search term
+- Use ↑↓ arrows to navigate matches
+- See highlighted results in real-time
+
+#### 4. Zoom for Details
+- Use +/− buttons next to zoom percentage
+- Zoom from 50% (full overview) to 200% (pixel-perfect details)
+- Each file panel has independent zoom
+
+#### 5. Save Your Changes
+- Press `Ctrl+S` to save (or click 💾 Save button)
+- Press `Ctrl+Shift+S` for Save As
+- Orange dot disappears when saved
+
+#### 6. Compare Multiple Files
+- Switch view mode: Single / 2 Split / 4 Grid
+- Drag files to different panels
+- **Multi-select**: Ctrl+click panels in quad view
+- Switch to double view to see only selected panels
+
+---
+
+## ⌨️ Keyboard Shortcuts
+
+| Action | Windows/Linux | macOS | Notes |
+|--------|---------------|-------|-------|
+| **Open File** | `Ctrl + O` | `Cmd + O` | Open file dialog |
+| **Save** | `Ctrl + S` | `Cmd + S` | Save to current file |
+| **Save As** | `Ctrl + Shift + S` | `Cmd + Shift + S` | Choose new location |
+| **Search** | `Ctrl + F` | `Cmd + F` | Search in active panel |
+| **Multi-Select** | `Ctrl + Click` | `Cmd + Click` | Select panels for double view |
+| **Reload** | `Ctrl + R` | `Cmd + R` | Reload application |
+| **DevTools** | `Ctrl + Shift + I` | `Cmd + Option + I` | Developer tools |
+| **Fullscreen** | `F11` | `Ctrl + Cmd + F` | Toggle fullscreen |
+
+---
+
+## 🎨 Visual Indicators
+
+### Panel Border Colors
+- **Bright Blue** (#3498db): Active panel - receives keyboard shortcuts (Ctrl+F, Ctrl+S)
+- **Light Blue** (#85c1e9): Selected panel - chosen for double view (not currently active)
+- **Green** (#27ae60): Drag target - file being dragged over this panel
+- **Gray** (#ddd): Default - inactive panel
+
+### File Status
+- **Orange Dot**: File has unsaved changes
+- **No Dot**: File is saved and unchanged
+
+### Search Highlights
+- **Yellow** (#ffeb3b): Search match
+- **Orange** (#ff9632): Current active match
+
+---
+
+## 💡 Use Cases
+
+### For Claude AI Users (Primary Audience)
+- **Instant TSX preview**: No more copying to CodePen!
+- **Search AI-generated code**: Find specific functions or components quickly
+- **Compare iterations**: See multiple Claude outputs side-by-side
+- **Zoom for details**: Inspect spacing, colors, and layout at 200%
+
+### For React Developers
+- **Quick component testing**: View .tsx/.jsx without project setup
+- **Isolated debugging**: Test components without dependencies
+- **Design comparison**: Compare different implementations with multi-select
+- **Code search**: Find hooks, props, or state management patterns
+
+### For Designers
+- **No coding required**: Preview React components Claude generates
+- **Visual comparison**: Side-by-side design iterations with zoom
+- **Pixel-perfect inspection**: 200% zoom for detail work
+- **HTML mockups**: Preview static HTML/CSS without a server
+
+### For Technical Writers
+- **Markdown editing**: Write docs with live GitHub-style preview
+- **Search documentation**: Find sections quickly with Ctrl+F
+- **Multi-file docs**: Compare different doc versions
+- **Offline writing**: No internet needed
+
+### For Code Reviewers
+- **Search & compare**: Find differences between file versions
+- **Zoom for details**: Inspect code at comfortable sizes
+- **Multi-file review**: Compare original and modified side-by-side
+- **Quick preview**: No need to clone repos
+
+---
 
 ---
 
@@ -112,7 +341,7 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 - Fixed wrong slot editing in double view
 - And 3 more critical fixes!
 
-[View Full Changelog](https://github.com/mokingbird-xyz/mb-viewer/releases)
+[View Full Changelog](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases)
 
 ---
 
@@ -140,8 +369,8 @@ A: Everything runs locally on your machine. No data is sent anywhere.
 Having problems? 
 
 1. Check the [FAQ section](#-faq) above
-2. Search [existing issues](https://github.com/mokingbird-xyz/mb-viewer/issues)
-3. Create a [new issue](https://github.com/mokingbird-xyz/mb-viewer/issues/new) with details
+2. Search [existing issues](https://github.com/mokingbird-xyz/mb-viewer-downloads/issues)
+3. Create a [new issue](https://github.com/mokingbird-xyz/mb-viewer-downloads/issues/new) with details
 
 ---
 
@@ -153,7 +382,7 @@ Free for personal and commercial use.
 
 ## 🔗 Links
 
-- 🌐 **Website**: Coming soon
+- 🌐 **Website**: mokingbird.xyz
 - 📧 **Contact**: info@mokingbird.xyz
 - 📦 **Releases**: [View all versions](https://github.com/mokingbird-xyz/mb-viewer/releases)
 
@@ -168,6 +397,6 @@ If you find MB_viewer helpful, please:
 
 ---
 
-**Built with ❤️ for the Claude AI and design community**
+**Made with ❤️ by [Mokingbird.xyz](https://mokingbird.xyz)**
 
 *Last updated: December 2024 • Version 2.5.0*
