@@ -93,7 +93,7 @@ TSX • JSX • HTML • Markdown • JSON • CSS • JavaScript • SVG • TX
 ![Comparison](images/Screenshot2.png)
 
 ### Editing view
-![Comparison](images/Screenshot2.png)
+![Comparison](images/Screenshot3.png)
 
 ## Demo
 ![Demo](images/mb_viewer_demo.gif)
