@@ -386,6 +386,7 @@ Free for personal and commercial use.
 - 📧 **Contact**: info@mokingbird.xyz
 - 📦 **Releases**: [View all versions](https://github.com/mokingbird-xyz/mb-viewer/releases)
 
+-LinkedIn Contact  [LinkedIn](https://www.linkedin.com/in/idris-badmus-19105450/)
 ---
 
 ## ⭐ Show Your Support
