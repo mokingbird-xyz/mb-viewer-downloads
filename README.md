@@ -41,7 +41,7 @@ Stop copying Claude's `.tsx` outputs to CodePen! MB_viewer lets you drag, drop, 
 No npm install. No webpack. No configuration. Just drag, drop, and preview. Available in Win(.exe), Mac and Linux
 
 ### 🎨 Production-Ready Features
-[Advanced search with highlighting, per-panel zoom (50-200%), multi-slot selection, and professional editing tools.](https://www.reddit.com/r/mokingbird_xyz/)
+Advanced search with highlighting, per-panel zoom (50-200%), multi-slot selection, and professional editing tools.)
 
 ---
 
