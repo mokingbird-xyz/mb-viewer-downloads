@@ -220,7 +220,7 @@ For AI-generated files, this is often faster than moving into a full IDE just to
 ![Screenshot](images/live_preview.png)
 
 ### Split Screen Comparison
-![Comparison](images/sspilt_screent_4.png)
+![Comparison](images/spilt_screent_4.png)
 
 ### Maths rendering and Mermaid flow
 ![Comparison](images/screenshot_math_meirmaid.png)
