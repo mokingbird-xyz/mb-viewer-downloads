@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MB_viewer](images/mb_viewer_image.png)
+<img src="images/mb_viewer_image.png" alt="MB_viewer" width="500">
 
 **The offline desktop viewer for TSX, JSX, HTML, Markdown, diagrams, math, and design-file previews.**
 
