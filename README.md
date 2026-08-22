@@ -32,7 +32,7 @@ Questions, feedback, feature requests, or download issues:
 
 | Platform | Download Link | Size |
 |----------|--------------|------|
-| 🪟 **Windows** | [Download MB_Viewer-3.0.0.exe](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/3.0.0/MB_Viewer3.0.0.exe) | ~90 MB |
+| 🪟 **Windows** | [Download MB_Viewer-3.0.0.exe](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/3.0.0/MB_Viewer.3.0.0.exe) | ~90 MB |
 | 🍎 **macOS (Intel)** | [Download MB_Viewer-3.0.0-x64.dmg](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/3.0.0/MB_Viewer-3.0.0-x64.dmg) | ~112 MB |
 | 🍎 **macOS (Apple Silicon)** | [Download MB_Viewer-3.0.0-arm64.dmg](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/3.0.0/MB_Viewer-3.0.0-arm64.dmg) | ~113 MB |
 | 🐧 **Linux** | [Download MB_Viewer-3.0.0.AppImage](https://github.com/mokingbird-xyz/mb-viewer-downloads/releases/download/3.0.0/MB_Viewer-3.0.0-arm64.AppImage) | ~120 MB |
