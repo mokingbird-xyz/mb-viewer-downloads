@@ -228,8 +228,12 @@ For AI-generated files, this is often faster than moving into a full IDE just to
 ### Full Dark mode 
 ![Comparison](images/darkmode_code.png)
 
-## Demo
-![Demo](images/demo.gif)
+## 🎬 Watch MB Viewer 3.0 in Action
+
+See how MB Viewer previews TSX, JSX, Markdown,
+Mermaid diagrams, and more.
+
+[![Watch MB Viewer 3.0 Demo](https://img.youtube.com/vi/zF2KVZMsnjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zF2KVZMsnjA)
 ```
 
 ---
